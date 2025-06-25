@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Profile README.md -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💻+Aziz+Winner+is+Coding...;🎨+Creative+Dev+%7C+UI+Designer+%7C+Artist;⚡+Welcome+to+my+GitHub+showcase!" alt="Typing SVG" />
+</div>
 
-<!--
-**Swiet16/Swiet16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">✨ Who Am I?</h2>
+
+```yaml
+Name: Aziz Winner
+Alias: @azizwinner
+Skills: [Code, Design, Vibes, Repeat]
+Mission: Bring magic to every pixel.
+Current Focus:
+  - 🔐 PIN-secured Password Vaults
+  - 🎂 Animated Birthday Game Pages
+  - 🎵 Artist Portals & Web Tools
